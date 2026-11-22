@@ -56,6 +56,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | The next unit unlocks |
 | Cadence | Daily |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Mascot cheers on correct answers; XP burst and level-up fanfare
+- Wrong answer: a gentle 'ooh, close!' and the explanation
+
+**Line we don't cross:** Never mocks wrong answers; money worries are never played for laughs.
+
 ## AI
 
 **None for facts.** Lessons are written and checked by people from trusted sources. AI may help draft, but never publishes a fact unreviewed.
