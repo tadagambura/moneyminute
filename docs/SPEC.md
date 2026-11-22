@@ -1,10 +1,10 @@
 # MoneyMinute: Spec
 
-**Learn money in a minute a day** · #18 of 33 in the build order · Easy, content-heavy · Revenue potential: Medium–high · Habits, Health & Learning · Source: New (Claude)
+**Learn money in a minute a day** · #8 of 33 · Wave 1: Daily keepers · Used: Daily · Easy, content-heavy · Revenue potential: Medium–high · Habits, Health & Learning · Source: New (Claude)
 
 ## One-liner
 
-Duolingo for money. One 60-second lesson or quiz a day on budgeting, saving, credit scores, pensions, tax and scams (UK-focused), with streaks, XP and levels. Each lesson ends with a practical action you can take in StackUp, PocketLeft or SubSpot.
+Duolingo for money. One 60-second lesson or quiz a day on budgeting, saving, credit scores, pensions, tax and scams (UK-focused), with streaks, XP and levels. Each lesson ends with a practical action you can take in StackUp, PocketLeft or SubSpot. The approach draws on the principles in Morgan Housel's The Psychology of Money (credited, and explained in our own words), and every lesson cites a trusted source.
 
 ## Problem / audience
 
@@ -15,10 +15,10 @@ Duolingo for money. One 60-second lesson or quiz a day on budgeting, saving, cre
 ## MVP features (ship with only these)
 
 1. One 60-second lesson or quiz a day
-2. Units: budgeting, saving, credit, pensions, tax, scams
-3. Streaks with freezes, XP and levels
+2. Units: money mindset (inspired by The Psychology of Money), budgeting, saving, credit, pensions, tax, scams
+3. Streaks with freezes, XP, levels and gems
 4. A practical 'do it now' action after each lesson
-5. Weekly recap
+5. Every lesson shows its source (MoneyHelper, GOV.UK, HMRC, FCA) and when it was last checked
 
 ## Not in MVP
 
@@ -50,6 +50,11 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## AI
+
+**None for facts.** Lessons are written and checked by people from trusted sources. AI may help draft, but never publishes a fact unreviewed. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
+
 ## Platform & data
 
 - **Platform:** Expo app.
@@ -63,7 +68,7 @@ never wiped, at most one notification a day by default.
 
 ## Risks
 
-Content must be accurate, reviewed and general: education, not personal advice. FCA financial-promotion rules mean no product recommendations. Content-heavy to start.
+Accuracy is everything: every fact comes from a trusted source, is checked by a person before it's published, and is re-checked on a schedule (tax rules change every April). AI can help draft, but never publishes unreviewed. The Psychology of Money is used for its ideas, credited, never copied (copyright). Education, not personal advice: FCA financial-promotion rules mean no product recommendations.
 
 ## Launch checklist
 
