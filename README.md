@@ -2,11 +2,11 @@
 
 **Learn money in a minute a day**
 
-> #18 of 33 in the build order · Easy, content-heavy · Revenue potential: Medium–high · Habits, Health & Learning
+> #8 of 33 · Wave 1: Daily keepers · Used: Daily · Easy, content-heavy · Revenue potential: Medium–high · Habits, Health & Learning
 
 ## What it is
 
-Duolingo for money. One 60-second lesson or quiz a day on budgeting, saving, credit scores, pensions, tax and scams (UK-focused), with streaks, XP and levels. Each lesson ends with a practical action you can take in StackUp, PocketLeft or SubSpot.
+Duolingo for money. One 60-second lesson or quiz a day on budgeting, saving, credit scores, pensions, tax and scams (UK-focused), with streaks, XP and levels. Each lesson ends with a practical action you can take in StackUp, PocketLeft or SubSpot. The approach draws on the principles in Morgan Housel's The Psychology of Money (credited, and explained in our own words), and every lesson cites a trusted source.
 
 ## Why it's in the portfolio
 
@@ -21,10 +21,10 @@ Young adults who feel behind on money basics.
 ## Version one
 
 - One 60-second lesson or quiz a day
-- Units: budgeting, saving, credit, pensions, tax, scams
-- Streaks with freezes, XP and levels
+- Units: money mindset (inspired by The Psychology of Money), budgeting, saving, credit, pensions, tax, scams
+- Streaks with freezes, XP, levels and gems
 - A practical 'do it now' action after each lesson
-- Weekly recap
+- Every lesson shows its source (MoneyHelper, GOV.UK, HMRC, FCA) and when it was last checked
 
 **Example:** A user does a two-minute lesson on credit scores each morning, keeps a 50-day streak, and starts a StackUp emergency-fund challenge from a lesson prompt.
 
@@ -56,9 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | The next unit unlocks |
 | Cadence | Daily |
 
+## AI
+
+**None for facts.** Lessons are written and checked by people from trusted sources. AI may help draft, but never publishes a fact unreviewed.
+
 ## Watch-outs
 
-Content must be accurate, reviewed and general: education, not personal advice. FCA financial-promotion rules mean no product recommendations. Content-heavy to start.
+Accuracy is everything: every fact comes from a trusted source, is checked by a person before it's published, and is re-checked on a schedule (tax rules change every April). AI can help draft, but never publishes unreviewed. The Psychology of Money is used for its ideas, credited, never copied (copyright). Education, not personal advice: FCA financial-promotion rules mean no product recommendations.
 
 ## Status
 
