@@ -89,4 +89,4 @@ Accuracy is everything: every fact comes from a trusted source, is checked by a 
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config
