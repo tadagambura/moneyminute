@@ -50,12 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Mascot cheers on correct answers; XP burst and level-up fanfare
-- Wrong answer: a gentle 'ooh, close!' and the explanation
+- Right answer: the coin mascot backflips and '+10 XP' floats up
+- Wrong answer: the mascot shakes its head kindly ('ooh, close!') and explains
+- Level up: the mascot graduates and tosses its cap
+- Streak day: the mascot lifts a tiny dumbbell (financial fitness)
+- Scam lesson: the mascot puts on a detective hat and blows a whistle at a dodgy email
 
 **Line we don't cross:** Never mocks wrong answers; money worries are never played for laughs.
 
