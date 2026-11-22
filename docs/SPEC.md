@@ -50,6 +50,15 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Mascot cheers on correct answers; XP burst and level-up fanfare
+- Wrong answer: a gentle 'ooh, close!' and the explanation
+
+**Line we don't cross:** Never mocks wrong answers; money worries are never played for laughs.
+
 ## AI
 
 **None for facts.** Lessons are written and checked by people from trusted sources. AI may help draft, but never publishes a fact unreviewed. (Portfolio rule: plain code first, code does the maths,
